@@ -1,4 +1,6 @@
-s is a module that provides a function for creating a tuple with a string
+#!/usr/bin/env python3
+"""
+This is a module that provides a function for creating a tuple with a string
     and the square of an int or float as a float.
 """
 from typing import Union, Tuple
